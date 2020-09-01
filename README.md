@@ -1,3 +1,3 @@
 # django-portfolio-template-
-I had created a template portfolio using Django . Users can use the code and make a portfolio at an ease.
+A website that makes it easy for users to make a personal portfolio
 
